@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+    <object id="1">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.17</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>yes</rtiProcessing>
+        <publicationStatus/>
+        <comment/>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="2">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.11</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>yes</rtiProcessing>
+        <publicationStatus/>
+        <comment/>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="3">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.9</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>yes</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="4">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.15</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso; make sure log sheet shows this
+            as1891_4-18_15_verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="5">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.7</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="6">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.14</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="7">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.6</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="8">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.10</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso including two details per side for a total of 4 RTI
+            files, as well as general non-RTI photographs</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="9">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.13</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="10">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.8(a)</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="11">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.8(b)</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="12">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.16</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="13">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.2</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>yes</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="14">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.4</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="15">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.5</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso, including general and a-d details for the recto and
+            verso; need to list all files and/or provide links to all</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="16">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.3</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="17">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.24</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="18">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.18</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto; affixed to slate or similar backing so verso could not be
+            images. Metal conservator does not know when it could be remove from backing.</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="19">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.25</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto; affixed to slate or similar backing so verso could not be
+            images. Metal conservator does not know when it could be remove from backing.</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="20">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.19</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso; make sure log sheet shows this as
+            1891_4-18_15_verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="21">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.20</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto; affixed to slate or similar backing so verso could not be
+            images. Metal conservator does not know when it could be remove from backing.</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="22">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.52</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment/>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="23">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.48a</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="24">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.47</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="25">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.59.25</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="26">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.59.40</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="27">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.59.30</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="28">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.59.34</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="29">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.59.38</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="30">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.59.43</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="31">
+        <collection>British Museum</collection>
+        <catNumber>No number (see comments)</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso; No number, but probably from 1891,4-18.59: 25, 30 34,
+            38, 40, 43; was sitting in cut out area labelled 1891, 4-18.50 [in ink]+ 59.47 [in
+            pencil]</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="32">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.59.48a fragments?</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment/>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="33">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.59.48b</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="34">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.51</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="35">
+        <collection>British Museum</collection>
+        <catNumber>1891,4-18.49</catNumber>
+        <objectType>tablet</objectType>
+        <material>selenite</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done for recto and verso</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="36">
+        <collection>Cologne</collection>
+        <catNumber>T37</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>RTI done or recto; verso still be done</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="37">
+        <collection>Jordan</collection>
+        <catNumber>XXX</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width>c.25 cm [check and adjust]</width>
+            <height>c.27cm [check and adjust]</height>
+            <depth/>
+        </dimensions>
+        <rtiCapture>yes</rtiCapture>
+        <rtiProcessing>yes</rtiProcessing>
+        <publicationStatus/>
+        <comment/>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="39">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT1</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment/>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="40">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT2</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>Has been opened (see letter from Greenhut, 8 April 2014)</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="41">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT3</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>Has been opened (see letter from Greenhut, 8 April 2014) </comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="42">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT4</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>Has been opened (see letter from Greenhut, 8 April 2014)</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="43">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT8</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>Has been opened (see letter from Greenhut, 8 April 2014)</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="44">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT8</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>Has been opened (see letter from Greenhut, 8 April 2014)</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="45">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT10</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>Has been opened (see letter from Greenhut, 8 April 2014)</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="46">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT14</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment/>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="47">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT22</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment/>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="48">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT23A</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>NOT OPENED (see letter from Greenhut, 8 April 2014) </comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="49">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT23B</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment>NOT OPENED (see letter from Greenhut, 8 April 2014) </comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="50">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>CT24A</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus/>
+        <comment/>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+    <object id="51">
+        <collection>Israel Antiquities Authority</collection>
+        <catNumber>21 Box 6</catNumber>
+        <objectType>tablet</objectType>
+        <material>lead</material>
+        <dimensions>
+            <width/>
+            <height/>
+            <depth/>
+        </dimensions>
+        <rtiCapture>no</rtiCapture>
+        <rtiProcessing>no</rtiProcessing>
+        <publicationStatus>unpublished</publicationStatus>
+        <comment>Unopened according to list prepared by RD</comment>
+        <bibliography/>
+        <files>
+            <ptm/>
+            <rti/>
+            <foto/>
+        </files>
+    </object>
+</collection>

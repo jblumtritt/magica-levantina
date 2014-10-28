@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Magica Levantina</description>
+    <author>Ulrike Henny</author>
+    <author>Ulrike Henny</author>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>magica-levantina</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <deployed>2014-10-15T13:50:04.994+02:00</deployed>
+</meta>

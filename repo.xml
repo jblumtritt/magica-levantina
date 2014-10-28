@@ -11,5 +11,4 @@
     <target>magica-levantina</target>
     <prepare>pre-install.xql</prepare>
     <finish/>
-    <deployed>2014-10-15T13:50:04.994+02:00</deployed>
 </meta>

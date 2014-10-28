@@ -5,7 +5,7 @@ xquery version "3.0";
  : within a module.
  :)
 module namespace config="http://papyri.uni-koeln.de:8080/exist/apps/magica-levantina/config";
-import module namespace admin="http://papyri.cceh.uni-koeln.de:8080/exist/apps/magica-levantina/admin" at "admin.xqm";
+import module namespace admin="http://papyri.uni-koeln.de:8080/exist/apps/magica-levantina/admin" at "admin.xqm";
 
 declare namespace templates="http://exist-db.org/xquery/templates";
 
